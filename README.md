@@ -1,1 +1,1 @@
-# 2TDSF-App_Lanterna
+#Projeto de lanterna para celular, usando GIT
